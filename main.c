@@ -1,5 +1,5 @@
 #include <msp430.h> 
-
+#include "spi.h"
 /*
  * main.c
  */
